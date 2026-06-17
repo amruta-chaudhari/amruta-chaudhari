@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:6366f1,100:0d9488&height=160&section=header&text=Amruta%20Chaudhari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Platform%20Engineer&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Amruta Chaudhari" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:6366f1,100:0d9488&height=160&section=header&text=Amruta%20Chaudhari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Platform%20Engineer&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Amruta Chaudhari" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+reliable+distributed+systems+at+scale;Open+to+full-time+software+engineering+roles;5%2B+years+shipping+production+platforms" alt="Typing animation" />
 
