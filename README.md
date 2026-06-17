@@ -16,7 +16,7 @@
 
 ### Hi, I'm Amruta 👋
 
-**Platform & full-stack engineer** with **5+ years** shipping microservices, real-time systems, and cloud infrastructure — from Selenium automation roots to **AWS ECS**, **WebSockets**, and **event-driven** backends handling **1,000+ concurrent users** at sub-200ms latency.
+**Platform and full-stack engineer** with **5+ years** of experience building microservices, real-time systems, and cloud infrastructure. I started in Selenium automation and later worked on **AWS ECS**, **WebSockets**, and **event-driven** backends serving **1,000+ concurrent users** at sub-200ms latency.
 
 📍 **Redmond, WA** · M.S. Computer Science, Binghamton University · **Open to full-time roles**
 
@@ -26,9 +26,9 @@
 
 | | |
 |---|---|
-| **Role** | Software Engineering Intern — Watson Career & Alumni Services, Binghamton University |
-| **Building** | [**ATS Resume Analyzer**](https://resume.amruta.me) — AI-powered resume ↔ job description matching (React, Node.js, OpenRouter) |
-| **Looking for** | Full-stack or platform engineering roles where reliability, observability, and scale matter |
+| **Role** | Software Engineering Intern, Watson Career & Alumni Services, Binghamton University |
+| **Building** | [**ATS Resume Analyzer**](https://resume.amruta.me), a tool that matches resumes with job descriptions (`React`, `Node.js`, `OpenRouter`) |
+| **Looking for** | Full-stack or platform roles focused on backend systems, reliability, and scale |
 
 ---
 
@@ -46,29 +46,23 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| [**ATS Resume Analyzer**](https://resume.amruta.me) · [code](https://github.com/amruta-chaudhari/Resume-Analyzer) | Parses resumes, scores JD fit with LLMs — live product for job seekers | `TypeScript` `React` `Node.js` `Prisma` `Docker` |
+| [**ATS Resume Analyzer**](https://resume.amruta.me) · [code](https://github.com/amruta-chaudhari/Resume-Analyzer) | Compares resumes with job descriptions for job seekers | `TypeScript` `React` `Node.js` `Prisma` `Docker` |
 | [**AI Trend Analytics Pipeline**](https://github.com/amruta-chaudhari/ai-trend-pipeline) | Spark + Airflow pipeline ingesting social data at scale on AWS | `Python` `Spark` `Airflow` `Terraform` `AWS` |
-| [**Assess-Web Engine**](https://github.com/amruta-chaudhari/assess-web-engine) | Real-time assessment platform — WebSockets, ECS, DynamoDB | `TypeScript` `WebSockets` `AWS ECS` `DynamoDB` |
-| [**Portfolio**](https://amruta-chaudhari.github.io/) · [code](https://github.com/amruta-chaudhari/portfolio) | This site — React, Three.js, CI/CD to GitHub Pages | `React` `Vite` `Three.js` `GitHub Actions` |
+| [**Assess-Web Engine**](https://github.com/amruta-chaudhari/assess-web-engine) | Real-time assessment platform built with WebSockets, ECS, and DynamoDB | `TypeScript` `WebSockets` `AWS ECS` `DynamoDB` |
+| [**Portfolio**](https://amruta-chaudhari.github.io/) · [code](https://github.com/amruta-chaudhari/portfolio) | Personal site built with React, Three.js, and GitHub Pages CI/CD | `React` `Vite` `Three.js` `GitHub Actions` |
 
 ---
 
 ### 🛠️ Core stack
 
-| Category | Skills |
-| :------- | :----- |
-| **Languages** | ![TypeScript][lang-typescript] ![JavaScript][lang-javascript] ![Java][lang-java] ![Python][lang-python] ![SQL][lang-sql] |
-| **Frontend** | ![React][frontend-react] ![Next.js][frontend-nextjs] ![Tailwind CSS][frontend-tailwindcss] ![shadcn/ui][frontend-shadcnui] ![Vite][frontend-vite] ![Framer Motion][frontend-framermotion] |
-| **Backend** | ![Node.js][backend-nodejs] ![Express.js][backend-expressjs] ![Spring Boot][backend-springboot] ![FastAPI][backend-fastapi] ![Microservices][backend-microservices] ![Serverless][backend-serverless] |
-| **Database** | ![PostgreSQL][db-postgresql] ![Redis][db-redis] ![MongoDB][db-mongodb] ![DynamoDB][db-dynamodb] ![Elasticsearch][db-elasticsearch] |
-| **Cloud & infra** | ![AWS][cloud-aws] ![GCP][cloud-gcp] ![Docker][cicd-docker] ![Kubernetes][cicd-kubernetes] ![Terraform][cicd-terraform] ![GitHub Actions][cicd-githubactions] ![Jenkins][cicd-jenkins] ![nginx][server-nginx] |
-| **Data & messaging** | ![Kafka][network-kafka] ![gRPC][network-grpc] ![NATS][network-nats] ![WebSockets][network-sockets] |
-| **Security** | ![JWT][security-jwt] ![OAuth0][security-oauth0] ![SSL][security-ssl] |
-| **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
-| **AI & LLMs** | ![OpenAI][ai-openai] ![Anthropic][ai-anthropic] ![Google Gemini][ai-gemini] ![Mistral AI][ai-mistral] ![OpenRouter][ai-openrouter] ![Groq][ai-groq] ![Perplexity][ai-perplexity] ![Pi][ai-pi] ![Hugging Face][ai-huggingface] ![Ollama][ai-ollama] |
-| **AI frameworks** | ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![LlamaIndex][ai-llamaindex] ![DeepAgents][ai-deepagents] |
-| **Coding agents** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![OpenAI Codex][code-codex] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Cline][code-cline] |
-| **OS** | ![Linux][other-linux] ![macOS][other-macos] ![Windows][other-windows] |
+| Area | Stack | Area | Stack |
+| :--- | :---- | :--- | :---- |
+| **Languages** | ![TypeScript][lang-typescript] ![JavaScript][lang-javascript] ![Java][lang-java] ![Python][lang-python] ![SQL][lang-sql] | **Frontend** | ![React][frontend-react] ![Next.js][frontend-nextjs] ![Tailwind CSS][frontend-tailwindcss] ![shadcn/ui][frontend-shadcnui] ![Vite][frontend-vite] ![Framer Motion][frontend-framermotion] |
+| **Backend** | ![Node.js][backend-nodejs] ![Express.js][backend-expressjs] ![Spring Boot][backend-springboot] ![FastAPI][backend-fastapi] ![Microservices][backend-microservices] ![Serverless][backend-serverless] | **Database** | ![PostgreSQL][db-postgresql] ![Redis][db-redis] ![MongoDB][db-mongodb] ![DynamoDB][db-dynamodb] ![Elasticsearch][db-elasticsearch] |
+| **Cloud & infra** | ![AWS][cloud-aws] ![GCP][cloud-gcp] ![Docker][cicd-docker] ![Kubernetes][cicd-kubernetes] ![Terraform][cicd-terraform] ![GitHub Actions][cicd-githubactions] ![Jenkins][cicd-jenkins] ![nginx][server-nginx] | **Data & messaging** | ![Kafka][network-kafka] ![gRPC][network-grpc] ![NATS][network-nats] ![WebSockets][network-sockets] |
+| **Security** | ![JWT][security-jwt] ![OAuth0][security-oauth0] ![SSL][security-ssl] | **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
+| **AI & LLMs** | ![OpenAI][ai-openai] ![Anthropic][ai-anthropic] ![Google Gemini][ai-gemini] ![Mistral AI][ai-mistral] ![OpenRouter][ai-openrouter] ![Groq][ai-groq] ![Perplexity][ai-perplexity] ![Pi][ai-pi] ![Hugging Face][ai-huggingface] ![Ollama][ai-ollama] | **AI frameworks** | ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![LlamaIndex][ai-llamaindex] ![DeepAgents][ai-deepagents] |
+| **Coding agents** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![OpenAI Codex][code-codex] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Cline][code-cline] | **OS** | ![Linux][other-linux] ![macOS][other-macos] ![Windows][other-windows] |
 
 <!-- Languages -->
 [lang-typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
@@ -170,8 +164,8 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 
 ### 🎓 Education
 
-**M.S. Computer Science** — Binghamton University, SUNY · *2023 – 2025*  
-**B.E. Computer Engineering** — Savitribai Phule Pune University · *2014 – 2018*
+**M.S. Computer Science**, Binghamton University, SUNY · *2023 – 2025*  
+**B.E. Computer Engineering**, Savitribai Phule Pune University · *2014 – 2018*
 
 ---
 
