@@ -65,6 +65,7 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 | **Data & messaging** | ![Kafka][network-kafka] ![WebSockets][network-sockets] |
 | **Security** | ![JWT][security-jwt] |
 | **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
+| **AI** | ![GitHub Copilot][ai-copilot] ![Cursor][ai-cursor] ![Claude Code][ai-claude] ![OpenCode][ai-opencode] ![Pi][ai-pi] ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![DeepAgents][ai-deepagents] |
 | **OS** | ![Linux][other-linux] ![macOS][other-macos] |
 
 <!-- Languages -->
@@ -107,6 +108,15 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 [tools-figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
 [projmgmt-jira]: https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white
 [tools-shellscripts]: https://img.shields.io/badge/Shell_Scripts-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white
+<!-- AI -->
+[ai-copilot]: https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white
+[ai-cursor]: https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white
+[ai-claude]: https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white
+[ai-opencode]: https://img.shields.io/badge/OpenCode-6B46C1?style=flat-square&logo=opencode&logoColor=white
+[ai-pi]: https://img.shields.io/badge/Pi-AI-FF6B6B?style=flat-square&logo=pi&logoColor=white
+[ai-langchain]: https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white
+[ai-langgraph]: https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white
+[ai-deepagents]: https://img.shields.io/badge/DeepAgents-0F172A?style=flat-square&logo=deepagents&logoColor=white
 <!-- OS -->
 [other-linux]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
 [other-macos]: https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white
