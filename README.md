@@ -58,17 +58,17 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 | Category | Skills |
 | :------- | :----- |
 | **Languages** | ![TypeScript][lang-typescript] ![JavaScript][lang-javascript] ![Java][lang-java] ![Python][lang-python] ![SQL][lang-sql] |
-| **Frontend** | ![React][frontend-react] ![Next.js][frontend-nextjs] ![Tailwind CSS][frontend-tailwindcss] ![shadcn/ui][frontend-shadcnui] |
-| **Backend** | ![Node.js][backend-nodejs] ![Spring Boot][backend-springboot] ![Microservices][backend-microservices] ![Serverless][backend-serverless] |
-| **Database** | ![PostgreSQL][db-postgresql] ![Redis][db-redis] ![Elasticsearch][db-elasticsearch] |
+| **Frontend** | ![React][frontend-react] ![Next.js][frontend-nextjs] ![Tailwind CSS][frontend-tailwindcss] ![shadcn/ui][frontend-shadcnui] ![Vite][frontend-vite] ![Framer Motion][frontend-framermotion] |
+| **Backend** | ![Node.js][backend-nodejs] ![Express.js][backend-expressjs] ![Spring Boot][backend-springboot] ![FastAPI][backend-fastapi] ![Microservices][backend-microservices] ![Serverless][backend-serverless] |
+| **Database** | ![PostgreSQL][db-postgresql] ![Redis][db-redis] ![MongoDB][db-mongodb] ![DynamoDB][db-dynamodb] ![Elasticsearch][db-elasticsearch] |
 | **Cloud & infra** | ![AWS][cloud-aws] ![GCP][cloud-gcp] ![Docker][cicd-docker] ![Kubernetes][cicd-kubernetes] ![Terraform][cicd-terraform] ![GitHub Actions][cicd-githubactions] ![Jenkins][cicd-jenkins] ![nginx][server-nginx] |
-| **Data & messaging** | ![Kafka][network-kafka] ![WebSockets][network-sockets] |
-| **Security** | ![JWT][security-jwt] |
+| **Data & messaging** | ![Kafka][network-kafka] ![gRPC][network-grpc] ![NATS][network-nats] ![WebSockets][network-sockets] |
+| **Security** | ![JWT][security-jwt] ![OAuth0][security-oauth0] ![SSL][security-ssl] |
 | **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
 | **AI & LLMs** | ![OpenAI][ai-openai] ![Anthropic][ai-anthropic] ![Google Gemini][ai-gemini] ![Mistral AI][ai-mistral] ![OpenRouter][ai-openrouter] ![Groq][ai-groq] ![Perplexity][ai-perplexity] ![Pi][ai-pi] ![Hugging Face][ai-huggingface] ![Ollama][ai-ollama] |
-| **AI frameworks** | ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![LlamaIndex][ai-llamaindex] ![DeepAgents][ai-deepagents] ![AutoGen][ai-autogen] ![CrewAI][ai-crewai] |
-| **AI coding** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![Windsurf][code-windsurf] ![Tabnine][code-tabnine] ![Codeium][code-codeium] ![Cody][code-cody] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Aider][code-aider] ![Cline][code-cline] ![Continue][code-continue] ![Devin][code-devin] ![JetBrains][code-jetbrains] ![Replit][code-replit] |
-| **OS** | ![Linux][other-linux] ![macOS][other-macos] |
+| **AI frameworks** | ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![LlamaIndex][ai-llamaindex] ![DeepAgents][ai-deepagents] |
+| **Coding agents** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![OpenAI Codex][code-codex] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Cline][code-cline] |
+| **OS** | ![Linux][other-linux] ![macOS][other-macos] ![Windows][other-windows] |
 
 <!-- Languages -->
 [lang-typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
@@ -81,14 +81,20 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 [frontend-nextjs]: https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
 [frontend-tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
 [frontend-shadcnui]: https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white
+[frontend-vite]: https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white
+[frontend-framermotion]: https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white
 <!-- Backend -->
 [backend-nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+[backend-expressjs]: https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white
 [backend-springboot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white
+[backend-fastapi]: https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white
 [backend-microservices]: https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white
 [backend-serverless]: https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white
 <!-- Database -->
 [db-postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
 [db-redis]: https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
+[db-mongodb]: https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white
+[db-dynamodb]: https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white
 [db-elasticsearch]: https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white
 <!-- Cloud & infra -->
 [cloud-aws]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
@@ -101,9 +107,13 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 [server-nginx]: https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white
 <!-- Messaging -->
 [network-kafka]: https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white
+[network-grpc]: https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white
+[network-nats]: https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white
 [network-sockets]: https://img.shields.io/badge/Sockets-010101?style=flat-square&logo=socket.io&logoColor=white
 <!-- Security -->
 [security-jwt]: https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white
+[security-oauth0]: https://img.shields.io/badge/OAuth0-EB5424?style=flat-square&logo=auth0&logoColor=white
+[security-ssl]: https://img.shields.io/badge/SSL-003A70?style=flat-square&logo=letsencrypt&logoColor=white
 <!-- Tools -->
 [tools-git]: https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
 [tools-postman]: https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
@@ -125,26 +135,17 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 [ai-langgraph]: https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white
 [ai-llamaindex]: https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white
 [ai-deepagents]: https://img.shields.io/badge/DeepAgents-0F172A?style=flat-square&logo=deepagents&logoColor=white
-[ai-autogen]: https://img.shields.io/badge/AutoGen-000000?style=flat-square&logo=autogen&logoColor=white
-[ai-crewai]: https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white
-<!-- Coding -->
+<!-- Coding agents -->
 [code-copilot]: https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white
 [code-cursor]: https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white
-[code-windsurf]: https://img.shields.io/badge/Windsurf-000000?style=flat-square&logo=windsurf&logoColor=white
-[code-tabnine]: https://img.shields.io/badge/Tabnine-FF6F61?style=flat-square&logo=tabnine&logoColor=white
-[code-codeium]: https://img.shields.io/badge/Codeium-09B6A2?style=flat-square&logo=codeium&logoColor=white
-[code-cody]: https://img.shields.io/badge/Cody-FF5543?style=flat-square&logo=sourcegraph&logoColor=white
+[code-codex]: https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white
 [code-claude]: https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white
 [code-opencode]: https://img.shields.io/badge/OpenCode-6B46C1?style=flat-square&logo=opencode&logoColor=white
-[code-aider]: https://img.shields.io/badge/Aider-000000?style=flat-square&logo=aider&logoColor=white
 [code-cline]: https://img.shields.io/badge/Cline-000000?style=flat-square&logo=cline&logoColor=white
-[code-continue]: https://img.shields.io/badge/Continue-000000?style=flat-square&logo=continue&logoColor=white
-[code-devin]: https://img.shields.io/badge/Devin-000000?style=flat-square&logo=devin&logoColor=white
-[code-jetbrains]: https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white
-[code-replit]: https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white
 <!-- OS -->
 [other-linux]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
 [other-macos]: https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white
+[other-windows]: https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white
 
 ---
 
