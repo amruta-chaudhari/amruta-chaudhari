@@ -16,7 +16,7 @@
 
 ### Hi, I'm Amruta 👋
 
-**Experienced full-stack engineer** with **5+ years** of experience building web products, backend services, and cloud systems. I have hands-on experience with AI tools and coding agents, along with **AWS ECS**, **WebSockets**, and **event-driven** backends serving **1,000+ concurrent users** at sub-200ms latency.
+**Experienced full-stack engineer** with **5+ years** of experience building web products, backend services, and cloud systems. I have hands-on experience with AI tools and AI coding workflows, along with **AWS ECS**, **WebSockets**, and **event-driven** backends serving **1,000+ concurrent users** at sub-200ms latency.
 
 📍 **Redmond, WA** · M.S. Computer Science, Binghamton University · **Open to full-time roles**
 
@@ -62,7 +62,7 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 | **Cloud & infra** | ![AWS][cloud-aws] ![GCP][cloud-gcp] ![Docker][cicd-docker] ![Kubernetes][cicd-kubernetes] ![Terraform][cicd-terraform] ![GitHub Actions][cicd-githubactions] ![Jenkins][cicd-jenkins] ![nginx][server-nginx] | **Data & messaging** | ![Kafka][network-kafka] ![gRPC][network-grpc] ![NATS][network-nats] ![WebSockets][network-sockets] |
 | **Security** | ![JWT][security-jwt] ![OAuth0][security-oauth0] ![SSL][security-ssl] | **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
 | **AI & LLMs** | ![OpenAI][ai-openai] ![Anthropic][ai-anthropic] ![Google Gemini][ai-gemini] ![Mistral AI][ai-mistral] ![OpenRouter][ai-openrouter] ![Groq][ai-groq] ![Perplexity][ai-perplexity] ![Pi][ai-pi] ![Hugging Face][ai-huggingface] ![Ollama][ai-ollama] | **AI frameworks** | ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![LlamaIndex][ai-llamaindex] ![DeepAgents][ai-deepagents] |
-| **Coding agents** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![OpenAI Codex][code-codex] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Cline][code-cline] | **OS** | ![Linux][other-linux] ![macOS][other-macos] ![Windows][other-windows] |
+| **Coding tools** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![OpenAI Codex][code-codex] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Cline][code-cline] | **OS** | ![Linux][other-linux] ![macOS][other-macos] ![Windows][other-windows] |
 
 <!-- Languages -->
 [lang-typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
@@ -129,7 +129,7 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 [ai-langgraph]: https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white
 [ai-llamaindex]: https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white
 [ai-deepagents]: https://img.shields.io/badge/DeepAgents-0F172A?style=flat-square&logo=deepagents&logoColor=white
-<!-- Coding agents -->
+<!-- Coding tools -->
 [code-copilot]: https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white
 [code-cursor]: https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white
 [code-codex]: https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white
