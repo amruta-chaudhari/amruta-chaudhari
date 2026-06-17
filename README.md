@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Open to work](https://img.shields.io/badge/Open%20to%20work-Full--time%20SWE-0d9488?style=for-the-badge&logo=briefcase&logoColor=white)](https://calendly.com/amruta-chaudhari)
+[![Open to work](https://img.shields.io/badge/Open%20to%20work-Full--time%20SWE-0d9488?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/amrutac13/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-amruta--chaudhari.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amruta-chaudhari.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-14b8a6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://google.com)
 
@@ -181,7 +181,6 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amrutac13-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrutac13/)
 [![Email](https://img.shields.io/badge/Email-achaudhari@binghamton.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:achaudhari@binghamton.edu)
-[![Calendly](https://img.shields.io/badge/Book_a_call-Calendly-0d9488?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/amruta-chaudhari)
 [![GitHub](https://img.shields.io/badge/GitHub-amruta--chaudhari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amruta-chaudhari)
 
 </div>
