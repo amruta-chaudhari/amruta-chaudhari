@@ -16,7 +16,7 @@
 
 ### Hi, I'm Amruta 👋
 
-**Platform and full-stack engineer** with **5+ years** of experience building microservices, real-time systems, and cloud infrastructure. I started in Selenium automation and later worked on **AWS ECS**, **WebSockets**, and **event-driven** backends serving **1,000+ concurrent users** at sub-200ms latency.
+**Experienced full-stack engineer** with **5+ years** of experience building web products, backend services, and cloud systems. I have hands-on experience with AI tools and coding agents, along with **AWS ECS**, **WebSockets**, and **event-driven** backends serving **1,000+ concurrent users** at sub-200ms latency.
 
 📍 **Redmond, WA** · M.S. Computer Science, Binghamton University · **Open to full-time roles**
 
@@ -28,7 +28,7 @@
 |---|---|
 | **Role** | Software Engineering Intern, Watson Career & Alumni Services, Binghamton University |
 | **Building** | [**ATS Resume Analyzer**](https://resume.amruta.me), a tool that matches resumes with job descriptions (`React`, `Node.js`, `OpenRouter`) |
-| **Looking for** | Full-stack or platform roles focused on backend systems, reliability, and scale |
+| **Looking for** | Full-stack engineering roles with strong backend, cloud, and AI product work |
 
 ---
 
