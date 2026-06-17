@@ -65,7 +65,9 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 | **Data & messaging** | ![Kafka][network-kafka] ![WebSockets][network-sockets] |
 | **Security** | ![JWT][security-jwt] |
 | **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
-| **AI** | ![GitHub Copilot][ai-copilot] ![Cursor][ai-cursor] ![Claude Code][ai-claude] ![OpenCode][ai-opencode] ![Pi][ai-pi] ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![DeepAgents][ai-deepagents] |
+| **AI & LLMs** | ![OpenAI][ai-openai] ![Anthropic][ai-anthropic] ![Google Gemini][ai-gemini] ![Mistral AI][ai-mistral] ![OpenRouter][ai-openrouter] ![Groq][ai-groq] ![Perplexity][ai-perplexity] ![Pi][ai-pi] ![Hugging Face][ai-huggingface] ![Ollama][ai-ollama] |
+| **AI frameworks** | ![LangChain][ai-langchain] ![LangGraph][ai-langgraph] ![LlamaIndex][ai-llamaindex] ![DeepAgents][ai-deepagents] ![AutoGen][ai-autogen] ![CrewAI][ai-crewai] |
+| **AI coding** | ![GitHub Copilot][code-copilot] ![Cursor][code-cursor] ![Windsurf][code-windsurf] ![Tabnine][code-tabnine] ![Codeium][code-codeium] ![Cody][code-cody] ![Claude Code][code-claude] ![OpenCode][code-opencode] ![Aider][code-aider] ![Cline][code-cline] ![Continue][code-continue] ![Devin][code-devin] ![JetBrains][code-jetbrains] ![Replit][code-replit] |
 | **OS** | ![Linux][other-linux] ![macOS][other-macos] |
 
 <!-- Languages -->
@@ -109,14 +111,37 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 [projmgmt-jira]: https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white
 [tools-shellscripts]: https://img.shields.io/badge/Shell_Scripts-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white
 <!-- AI -->
-[ai-copilot]: https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white
-[ai-cursor]: https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white
-[ai-claude]: https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white
-[ai-opencode]: https://img.shields.io/badge/OpenCode-6B46C1?style=flat-square&logo=opencode&logoColor=white
-[ai-pi]: https://img.shields.io/badge/Pi-AI-FF6B6B?style=flat-square&logo=pi&logoColor=white
+[ai-openai]: https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white
+[ai-anthropic]: https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white
+[ai-gemini]: https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white
+[ai-mistral]: https://img.shields.io/badge/Mistral_AI-FA520F?style=flat-square&logo=mistralai&logoColor=white
+[ai-openrouter]: https://img.shields.io/badge/OpenRouter-635BFF?style=flat-square&logo=openrouter&logoColor=white
+[ai-groq]: https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white
+[ai-perplexity]: https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white
+[ai-pi]: https://img.shields.io/badge/Pi-6E4AFF?style=flat-square&logo=pi&logoColor=white
+[ai-huggingface]: https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black
+[ai-ollama]: https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white
 [ai-langchain]: https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white
 [ai-langgraph]: https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white
+[ai-llamaindex]: https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white
 [ai-deepagents]: https://img.shields.io/badge/DeepAgents-0F172A?style=flat-square&logo=deepagents&logoColor=white
+[ai-autogen]: https://img.shields.io/badge/AutoGen-000000?style=flat-square&logo=autogen&logoColor=white
+[ai-crewai]: https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=crewai&logoColor=white
+<!-- Coding -->
+[code-copilot]: https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white
+[code-cursor]: https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white
+[code-windsurf]: https://img.shields.io/badge/Windsurf-000000?style=flat-square&logo=windsurf&logoColor=white
+[code-tabnine]: https://img.shields.io/badge/Tabnine-FF6F61?style=flat-square&logo=tabnine&logoColor=white
+[code-codeium]: https://img.shields.io/badge/Codeium-09B6A2?style=flat-square&logo=codeium&logoColor=white
+[code-cody]: https://img.shields.io/badge/Cody-FF5543?style=flat-square&logo=sourcegraph&logoColor=white
+[code-claude]: https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white
+[code-opencode]: https://img.shields.io/badge/OpenCode-6B46C1?style=flat-square&logo=opencode&logoColor=white
+[code-aider]: https://img.shields.io/badge/Aider-000000?style=flat-square&logo=aider&logoColor=white
+[code-cline]: https://img.shields.io/badge/Cline-000000?style=flat-square&logo=cline&logoColor=white
+[code-continue]: https://img.shields.io/badge/Continue-000000?style=flat-square&logo=continue&logoColor=white
+[code-devin]: https://img.shields.io/badge/Devin-000000?style=flat-square&logo=devin&logoColor=white
+[code-jetbrains]: https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white
+[code-replit]: https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white
 <!-- OS -->
 [other-linux]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
 [other-macos]: https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white
