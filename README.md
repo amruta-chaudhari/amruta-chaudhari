@@ -55,32 +55,61 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 
 ### 🛠️ Core stack
 
-**Languages**
+| Category | Skills |
+| :------- | :----- |
+| **Languages** | ![TypeScript][lang-typescript] ![JavaScript][lang-javascript] ![Java][lang-java] ![Python][lang-python] ![SQL][lang-sql] |
+| **Frontend** | ![React][frontend-react] ![Next.js][frontend-nextjs] ![Tailwind CSS][frontend-tailwindcss] ![shadcn/ui][frontend-shadcnui] |
+| **Backend** | ![Node.js][backend-nodejs] ![Spring Boot][backend-springboot] ![Microservices][backend-microservices] ![Serverless][backend-serverless] |
+| **Database** | ![PostgreSQL][db-postgresql] ![Redis][db-redis] ![Elasticsearch][db-elasticsearch] |
+| **Cloud & infra** | ![AWS][cloud-aws] ![GCP][cloud-gcp] ![Docker][cicd-docker] ![Kubernetes][cicd-kubernetes] ![Terraform][cicd-terraform] ![GitHub Actions][cicd-githubactions] ![Jenkins][cicd-jenkins] ![nginx][server-nginx] |
+| **Data & messaging** | ![Kafka][network-kafka] ![WebSockets][network-sockets] |
+| **Security** | ![JWT][security-jwt] |
+| **Tools** | ![Git][tools-git] ![Postman][tools-postman] ![Figma][tools-figma] ![JIRA][projmgmt-jira] ![Shell Scripts][tools-shellscripts] |
+| **OS** | ![Linux][other-linux] ![macOS][other-macos] |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend & backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-**Cloud & infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,java,python,docker,kubernetes,aws,postgres,redis&perline=5" alt="Tech icons" />
+<!-- Languages -->
+[lang-typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+[lang-javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+[lang-java]: https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
+[lang-python]: https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+[lang-sql]: https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white
+<!-- Frontend -->
+[frontend-react]: https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
+[frontend-nextjs]: https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white
+[frontend-tailwindcss]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white
+[frontend-shadcnui]: https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcn/ui&logoColor=white
+<!-- Backend -->
+[backend-nodejs]: https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+[backend-springboot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white
+[backend-microservices]: https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white
+[backend-serverless]: https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white
+<!-- Database -->
+[db-postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white
+[db-redis]: https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white
+[db-elasticsearch]: https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white
+<!-- Cloud & infra -->
+[cloud-aws]: https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white
+[cloud-gcp]: https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white
+[cicd-docker]: https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white
+[cicd-kubernetes]: https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white
+[cicd-terraform]: https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white
+[cicd-githubactions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white
+[cicd-jenkins]: https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white
+[server-nginx]: https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white
+<!-- Messaging -->
+[network-kafka]: https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white
+[network-sockets]: https://img.shields.io/badge/Sockets-010101?style=flat-square&logo=socket.io&logoColor=white
+<!-- Security -->
+[security-jwt]: https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white
+<!-- Tools -->
+[tools-git]: https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+[tools-postman]: https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white
+[tools-figma]: https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
+[projmgmt-jira]: https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white
+[tools-shellscripts]: https://img.shields.io/badge/Shell_Scripts-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white
+<!-- OS -->
+[other-linux]: https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+[other-macos]: https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white
 
 ---
 
