@@ -149,13 +149,13 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 
 ---
 
-### 📊 GitHub
+<!-- ### 📊 GitHub
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amruta-chaudhari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" height="165" />
 
-</div>
+</div> -->
 
 ---
 
