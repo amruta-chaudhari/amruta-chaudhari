@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:6366f1,100:0d9488&height=160&section=header&text=Amruta%20Chaudhari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Platform%20Engineer&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Amruta Chaudhari" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,50:6366f1,100:0d9488&height=160&section=header&text=Amruta%20Chaudhari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=16&descAlignY=62&descAlign=50" width="100%" alt="Amruta Chaudhari" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+reliable+distributed+systems+at+scale;Open+to+full-time+software+engineering+roles;5%2B+years+shipping+production+platforms" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+React%2FTypeScript+web+apps+and+real-time+systems;Open+to+full-time+software+engineering+roles;5%2B+years+shipping+production+software" alt="Typing animation" />
 
 <br/>
 
 [![Open to work](https://img.shields.io/badge/Open%20to%20work-Full--time%20SWE-0d9488?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/amrutac13/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-amruta--chaudhari.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amruta-chaudhari.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-14b8a6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://google.com)
+[![Resume](https://img.shields.io/badge/Resume-14b8a6?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/amruta-chaudhari/amruta-chaudhari/raw/main/Resume%20Amruta%20Chaudhari.pdf)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### Hi, I'm Amruta 👋
 
-**Experienced full-stack engineer** with **5+ years** of experience building web products, backend services, and cloud systems. I have hands-on experience with AI tools and coding agents, along with **AWS ECS**, **WebSockets**, and **event-driven** backends serving **1,000+ concurrent users** at sub-200ms latency.
+**Full-Stack Software Engineer** with **5+ years** of experience building **React/TypeScript** web applications, backend APIs, real-time systems, and operational visibility tools. Strong background in **JavaScript**, **TypeScript**, **React**, **Python**, **Node.js**, **WebSockets**, **AWS**, **Docker**, **CI/CD**, dashboards, monitoring, and distributed systems — translating complex system data into reliable, user-focused tools for engineering and operations teams.
 
 📍 **Redmond, WA** · M.S. Computer Science, Binghamton University · **Open to full-time roles**
 
@@ -28,7 +28,7 @@
 |---|---|
 | **Role** | Software Engineering Intern, Watson Career & Alumni Services, Binghamton University |
 | **Building** | [**ATS Resume Analyzer**](https://resume.amruta.me), a tool that matches resumes with job descriptions (`React`, `Node.js`, `OpenRouter`) |
-| **Looking for** | Full-stack engineering roles with strong backend, cloud, and AI product work |
+| **Looking for** | Full-time software engineering roles building React/TypeScript web apps, backend APIs, and real-time systems |
 
 ---
 
@@ -47,8 +47,7 @@ TMF Group          →  87% faster regression testing · 60% lower MTTD with ELK
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | [**ATS Resume Analyzer**](https://resume.amruta.me) · [code](https://github.com/amruta-chaudhari/Resume-Analyzer) | Compares resumes with job descriptions for job seekers | `TypeScript` `React` `Node.js` `Prisma` `Docker` |
-| [**AI Trend Analytics Pipeline**](https://github.com/amruta-chaudhari/ai-trend-pipeline) | Spark + Airflow pipeline ingesting social data at scale on AWS | `Python` `Spark` `Airflow` `Terraform` `AWS` |
-| [**Assess-Web Engine**](https://github.com/amruta-chaudhari/assess-web-engine) | Real-time assessment platform built with WebSockets, ECS, and DynamoDB | `TypeScript` `WebSockets` `AWS ECS` `DynamoDB` |
+| [**AI Trend Analytics Pipeline**](https://github.com/amruta-chaudhari/Meme-Trend-Analysis-System) | Spark + Airflow pipeline ingesting social data at scale on AWS | `Python` `Spark` `Airflow` `Terraform` `AWS` |
 | [**Portfolio**](https://amruta-chaudhari.github.io/) · [code](https://github.com/amruta-chaudhari/portfolio) | Personal site built with React, Three.js, and GitHub Pages CI/CD | `React` `Vite` `Three.js` `GitHub Actions` |
 
 ---
